@@ -4,15 +4,15 @@
   "restricted": false,
   "overridable": true,
   "files": [
-    "window.bin",
+    "template.bin",
+    "droptarget.bin",
     "thumbnail.png"
   ],
   "attributes": {
     "lastModification": {
       "actor": "admin",
-      "timestamp": "2021-11-03T22:48:57Z"
+      "timestamp": "2021-11-04T02:38:59Z"
     },
-    "xml-format-version": 1,
-    "lastModificationSignature": "9c9c225c289b716c769fed54912859ed7ebbfcdfc321c45cb7d9ed51a5beb4a2"
+    "lastModificationSignature": "8e55f389f36e591bc8cb6e29aa747119c34095a786207af8849ba3985bf15fe9"
   }
 }
