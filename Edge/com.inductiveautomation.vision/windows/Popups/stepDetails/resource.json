@@ -4,8 +4,7 @@
   "restricted": false,
   "overridable": true,
   "files": [
-    "template.bin",
-    "droptarget.bin",
+    "window.bin",
     "thumbnail.png"
   ],
   "attributes": {
@@ -13,6 +12,8 @@
       "actor": "admin",
       "timestamp": "2021-11-05T02:57:50Z"
     },
-    "lastModificationSignature": "72f0ef2cc9b1ec9a94dc547dad2147d58e34780ce59911144c8cf60f08b55f76"
+    "xml-format-version": 1,
+    "parameter-names": "stepTag",
+    "lastModificationSignature": "21444257ff35231125aab0ada5f12e3e4ed70692ac17bc39c36bb8773bb6b348"
   }
 }
